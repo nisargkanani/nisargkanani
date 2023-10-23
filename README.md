@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nisargkanani
 - 👀 I’m interested in Data Science and Machine Learning!
 - 🌱 I’m currently trying out some Kaggle competitions.
-- 💞️ I’m looking to collaborate on fun small projects
+- 🧑‍💻 I’m looking to collaborate on fun small projects
 - 📫 How to reach me: email @ nisarg.kanani7@gmail.com
 
 <!---
